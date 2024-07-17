@@ -1,0 +1,4 @@
+[core]
+    remote = dvc-demo-remote
+['remote "dvc-demo-remote"']
+    url = /Users/surekhagaikwad/Documents/dvc_repo/dvc-demo-data
